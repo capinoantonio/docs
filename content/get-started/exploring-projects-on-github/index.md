@@ -1,4 +1,4 @@
----
+---@patriciaxxx01 
 title: Exploring projects on GitHub
 intro: 'Discover interesting projects on {% data variables.product.product_name %} and contribute to open source by collaborating with other people.'
 redirect_from:
